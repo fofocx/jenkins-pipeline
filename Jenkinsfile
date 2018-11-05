@@ -1,4 +1,3 @@
-Administrator 16:38:42
 pipeline {
     agent { docker { image 'maven:3.3.3' } }
     stages {
